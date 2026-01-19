@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**UzmaYasminSyed/UzmaYasminSyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 👯 I’m looking to collaborate on<br><br>AI projects that solve real-world problems<br><br>Research-based ML/DL mini-projects<br><br>Data analysis & visualization projects<br><br>I’m looking for help with<br><br>Model optimization, evaluation, and performance improvement<br><br>Deployment of machine learning and deep learning models<br><br>Interpreting research papers and translating them into working solutions<br><br>🌱 I’m currently learning<br><br>Advanced deep learning architectures and optimization techniques<br><br>Audio signal processing and voice-based AI applications<br><br>Model deployment workflows and MLOps fundamentals<br><br>💬 Ask me about<br><br>Python programming and Data Structures & Algorithms<br><br>Machine Learning and Deep Learning concepts<br><br>Kaggle workflows, datasets, and project experimentation<br><br>End-to-end AI project development<br><br>⚡ Fun fact<br><br>I am highly motivated by solving complex problems through structured and data-driven approaches.
 
@@ -19,4 +13,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=UzmaYasminSyed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
